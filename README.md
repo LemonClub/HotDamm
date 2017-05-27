@@ -252,3 +252,20 @@ Ex.) 관리자 -> 하위 관리자 등등...
 유저 참여시 관리자들이 결정
 
 ---
+
+
+# 공모전 <a id="contest">
+- 글로벌 소프트웨어 공모전 (~7.31 참가 신청)
+> http://www.globalswcontest.com/main.php
+
+- 주니어 소프트웨어 창작대회 (~6.18 참가 신청)
+> https://www.juniorswcup.com/contest/about
+
+- IP Meister Program (~6.9 참가 신청)
+> http://www.ip-edu.net/ipedu2012/front/ipedu/bbs/bbsDt.do?method=view&bbs_mngno=36&bbsd_mngno=15092&ju_mn=7&bu_mn=1
+
+- Be the CEOs 제 14회 특성화고교생 사장되기 창업대회
+> http://www.civo.net/board/view/code/civoboard_01/codeNo/1212
+
+- 넥슨 아이디어 챌린지 (-6.16 참가 신청)
+> https://www.nexon-ic.com/sub3.asp
